@@ -12,4 +12,4 @@ https://gist.github.com/gousiosg/7600626
 
 ## License
 
-Released under [MIT](/LICENSE.md) by [@andrizan](https://github.com/andrizan).
+Released under [MIT](/LICENSE) by [@andrizan](https://github.com/andrizan).
